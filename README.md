@@ -28,6 +28,8 @@ python ./src/main.py
 4. Watch ResNet get confused
 5. Check out the images — what ResNet fails to distinguish is still obvious to humans
 
+![Image](image.png)
+
 ---
 
 ## How does the attack actually work?
